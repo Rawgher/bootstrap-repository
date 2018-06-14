@@ -36,6 +36,11 @@ h3 {
     border: none;
 }
 
+.image-size {
+    width: 250px; 
+    height: 200px;
+}
+
 .footer {
     border: 0; 
     margin: 0; 
